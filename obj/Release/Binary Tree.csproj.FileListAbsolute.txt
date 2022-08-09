@@ -1,0 +1,14 @@
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\bin\Release\Binary Tree.exe.config
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\bin\Release\Binary Tree.exe.manifest
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\bin\Release\Binary Tree.application
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\bin\Release\Binary Tree.exe
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\bin\Release\Binary Tree.pdb
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.csproj.AssemblyReference.cache
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary_Tree.Form1.resources
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary_Tree.Properties.Resources.resources
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.csproj.GenerateResource.cache
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.exe.manifest
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.application
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.exe
+C:\Users\Charisse Oblefias\source\repos\Binary Tree\Binary Tree\obj\Release\Binary Tree.pdb
